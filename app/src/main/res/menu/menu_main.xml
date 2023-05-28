@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="vn.tlu.edu.android.cartman.MainActivity">
+
+
+    <item
+        android:id="@+id/mnu_cart"
+        android:orderInCategory="200"
+        android:title="Cart"
+        android:icon="@drawable/shopping_cart_24"
+        app:showAsAction="ifRoom"/>
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CartMan</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="phone_name">Phone Name</string>
+    <string name="phone_price">Phone Price</string>
+    <string name="add_product">Added product: </string>
+</resources>
